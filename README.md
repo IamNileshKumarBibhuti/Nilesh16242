@@ -56,8 +56,8 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 - **Conversion to CNF** and **Inference by resolution**
 
 ### Projects
-- [Knights](https://github.com/nahueespinosa/ai50/tree/master/knights)
-- [Minesweeper](https://github.com/nahueespinosa/ai50/tree/master/minesweeper)
+- [Knights](https://github.com/Nilesh16242/Nilesh16242/tree/main/knights)
+- [Minesweeper](https://github.com/Nilesh16242/Nilesh16242/tree/main/minesweeper)
 
 ## Lecture 2: Uncertainty
 
@@ -79,8 +79,8 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 - **Likelihood weighting**
 
 ### Projects
-- [Heredity](https://github.com/nahueespinosa/ai50/tree/master/heredity)
-- [PageRank](https://github.com/nahueespinosa/ai50/tree/master/pagerank)
+- [Heredity](https://github.com/Nilesh16242/Nilesh16242/tree/main/heredity)
+- [PageRank](https://github.com/Nilesh16242/Nilesh16242/tree/main/pagerank)
 
 ## Lecture 3: Optimization
 
@@ -104,7 +104,7 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
     - **Backtracking search**
 
 ### Projects
-- [Crossword](https://github.com/nahueespinosa/ai50/tree/master/crossword)
+- [Crossword](https://github.com/Nilesh16242/Nilesh16242/tree/main/crossword)
     
 ## Lecture 4: Learning
 
@@ -137,8 +137,8 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
  clusters' centers.
 
 ### Projects
-- [Shopping](https://github.com/nahueespinosa/ai50/tree/master/shopping)
-- [Nim](https://github.com/nahueespinosa/ai50/tree/master/nim)
+- [Shopping](https://github.com/Nilesh16242/Nilesh16242/tree/main/shopping)
+- [Nim](https://github.com/Nilesh16242/Nilesh16242/tree/main/nim)
 
 ## Lecture 5: Neural Networks
 
@@ -160,7 +160,7 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 - **Backpropagation**: algorithm for training neural networks with hidden layers.
 
 ### Projects
-- [Traffic](https://github.com/nahueespinosa/ai50/tree/master/traffic)
+- [Traffic](https://github.com/Nilesh16242/Nilesh16242/tree/main/traffic)
 
 ## Lecture 6: Language
 
@@ -197,5 +197,5 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 - **skip-gram architecture**: neural network architecture for predicting context words given a target word.
 
 ### Projects
-- [Parser](https://github.com/nahueespinosa/ai50/tree/master/parser)
-- [Questions](https://github.com/nahueespinosa/ai50/tree/master/questions)
+- [Parser](https://github.com/Nilesh16242/Nilesh16242/tree/main/parser)
+- [Questions](https://github.com/Nilesh16242/Nilesh16242/tree/main/questions)
