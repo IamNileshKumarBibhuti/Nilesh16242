@@ -11,7 +11,7 @@ This course explores the concepts and algorithms at the foundation of modern art
  systems of their own.
  
 Certificate:
-https://courses.edx.org/certificates/2ec5ff3f06b24bb595c21e3821591538
+https://cs50.harvard.edu/certificates/f12ec562-ebaf-475d-a962-1f39b9924778
 
 # Notes
 I've taken some notes on key concepts and algorithms throughout the lectures for future reference. 
