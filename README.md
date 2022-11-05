@@ -38,7 +38,7 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 
 ### Projects
 - [Degrees](https://github.com/Nilesh16242/Nilesh16242/tree/main/degrees)
-- [Tic-Tac-Toe](https://github.com/nahueespinosa/ai50/tree/master/tictactoe)
+- [Tic-Tac-Toe](https://github.com/Nilesh16242/Nilesh16242/tree/main/tictactoe)
 
 ## Lecture 1: Knowledge
 
