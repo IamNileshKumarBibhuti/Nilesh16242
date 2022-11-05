@@ -37,7 +37,7 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 - **Minimax**: adversarial search algorithm.
 
 ### Projects
-- [Degrees](https://github.com/nahueespinosa/ai50/tree/master/degrees)
+- [Degrees](https://github.com/Nilesh16242/Nilesh16242/tree/main/degrees)
 - [Tic-Tac-Toe](https://github.com/nahueespinosa/ai50/tree/master/tictactoe)
 
 ## Lecture 1: Knowledge
